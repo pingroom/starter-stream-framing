@@ -1,0 +1,11 @@
+{
+  "streamId": "capture-one",
+  "title": "Retained demo capture",
+  "context": "Select the framing convention from the source protocol documentation.",
+  "chunks": [
+    "00",
+    "03aabb",
+    "cc0000",
+    "0002ddee"
+  ]
+}
